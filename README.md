@@ -96,10 +96,6 @@ Some ideas I'd like to explore:
 - Learning how to design, test, and document a software project
 - Building an initial prototype using free tools and available hardware
 
-My initial goal is to explore a prototype with zero cash expenditure
-on my personal computer with 16 GB RAM, while accounting for the
-limitations of free tools and available resources.
-
 ## 📖 Currently Learning
 
 - Programming fundamentals and problem-solving
@@ -110,7 +106,7 @@ limitations of free tools and available resources.
 - Practical applications of AI and automation
 
 ## 🤝 Let's Connect
-
+I'm always happy to learn from others, exchange ideas, and explore interesting projects.
 <p>
   <a href="mailto:amir.h.porsharifi@gmail.com">
     <img src="https://img.shields.io/badge/Email-amir.h.porsharifi%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Amir"/>
@@ -122,7 +118,7 @@ limitations of free tools and available resources.
     <img src="https://img.shields.io/badge/GitHub-Amirh2006-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Amir"/>
   </a>
 </p>
-
+Thanks for stopping by!
 ---
 
 <p align="center">
