@@ -54,8 +54,8 @@ My experience with each of them varies.
 
 <p>
   <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI"/>
-  <img src="[https://img.shields.io/badge/Gin-Framework-008ECF?style=for-the-badge](https://share.google/Tut4Ixf34391C3MXu)" alt="Gin"/>
-  <img src="[https://img.shields.io/badge/GORM-ORM-00ADD8?style=for-the-badge](https://share.google/hHe50D0ZZIxqBHeEm)" alt="GORM"/>
+  <img src="https://img.shields.io/badge/Gin-Framework-008ECF?style=for-the-badge" alt="Gin"/>
+  <img src="https://img.shields.io/badge/GORM-ORM-00ADD8?style=for-the-badge" alt="GORM"/>
   <img src="https://img.shields.io/badge/JWT-Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
   <img src="https://img.shields.io/badge/Swagger-OpenAPI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger"/>
 </p>
